@@ -1,0 +1,129 @@
+html, body{
+    margin:	0;
+    padding:	0;
+    border:	none;
+}
+body{
+    height:	100vh;
+}
+div {
+    width: 100px;
+    height: 100px;
+    border: 1px solid;
+    color: blue;
+    
+  }
+  section {
+    border:	2px	solid	cornflowerblue;
+    margin:	5px;
+    padding: 3px;
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+}
+.flex-container {
+    display: flex;
+    height: 80px;
+    width: 1323px;
+    padding: 5px;
+    margin-top: 7px;
+    margin-bottom: 6px;
+    align-items: center;
+}
+h1 {
+    color:black;
+}  
+h5{
+    color: black;
+    margin-top: 1px;
+}
+h4 {
+    color:black;
+    margin-top: -2px;
+}
+
+.title{
+    flex: 3;
+    height: 57px;
+    text-align: left;
+}
+.somepage {
+    height: 22px;
+    margin-left: 214px;
+    text-align: center;
+    margin-right: 85px;
+    margin: 27px;
+}
+.anotherpage {
+    height: 22px;
+    text-align: center; 
+    height: 22px;
+    text-align: center;
+    margin-right: 51px;
+    margin-left: -14px;
+}
+.linkthis {
+    height: 22px;
+    text-align: center;
+    margin-right: 63px;
+    margin-left: -41px;
+}
+element.style {
+    justify-content: space-around;
+    flex-wrap: wrap;
+}
+div.flex-container3{
+    display: flex;
+    height: 113px;
+    width: 926px;
+    margin-top: 7px;
+    margin-bottom: 6px;
+    align-items: baseline;
+
+}
+.flex-container2{
+    height: 224px;
+}
+.mainarticle {
+    flex: 3;
+    margin-left: 2px;
+    margin-right: 13px;
+    padding: 10px;
+    text-align: left;
+    padding-top: 9px;
+    padding-bottom: 109px;
+}
+.sidebar {
+    width: 165px;
+    height: 218px;
+    text-align: left;
+}
+.copyright {
+    height: 22px;
+    text-align: center;
+    margin-right: -141px;
+    margin-left: -385px;
+    padding-top: 5px;
+}
+
+.somepage2 {
+    height: 22px;
+    text-align: center;
+    margin-right: 406px;
+    margin-left: 49px;
+    padding-top: 7px;
+}
+.anotherpage2 {
+    height: 22px;
+    text-align: center;
+    margin-right: -270px;
+    margin-left: -859px;
+    padding-top: 7px;
+}
+.linkthis2 {
+    height: 22px;
+    text-align: center;
+    margin-right: -449px;
+    margin-left: -162px;
+    padding-top: 7px;
+}
